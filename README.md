@@ -17,7 +17,7 @@ This resistor works on the principle of photo conductivity. When light falls on 
 
 For the circuit diagram of this gameHacks [Click Here](https://github.com/Raihan-009/ArduinoFunduino/blob/master/dianosaurGameHacks/simulationScreenshot%20.png)
 
-For the implementation demo [Click Here] (https://github.com/Raihan-009/ArduinoFunduino/blob/master/dianosaurGameHacks/howToimplement.jpg)
+For the implementation demo [Click Here](https://github.com/Raihan-009/ArduinoFunduino/blob/master/dianosaurGameHacks/howToimplement.jpg)
 
 
 

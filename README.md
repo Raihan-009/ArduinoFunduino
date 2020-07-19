@@ -12,7 +12,9 @@ Here I have done a funny project with the help of a photoresistor and a servo mo
 By using LDR(Light Dependent Resistor) we can measure the resistance of different source of light.
 This resistor works on the principle of photo conductivity. When light falls on the LDR then the resistance decreases, and increases in the dark.When a LDR is kept in the dark     place or object, its resistance is high and, when the LDR is kept in the light its resistance will decrease. And with the help of this concept we can measure the analog value of resistance using arduino and requires code. Thus we can make a logic to make a command for servo motor to make turn into fixed degree of rotation.
 
-In details [Click Here](https://github.com/Raihan-009/ArduinoFunduino/tree/master/dianosaurGameHacks)
+#### Demo for this hacks
+![dianosaurGameHacksDemo](https://user-images.githubusercontent.com/64744693/87867838-b702d800-c9b2-11ea-9118-b97497470738.gif)
+
 
 ### Led With LDR
 

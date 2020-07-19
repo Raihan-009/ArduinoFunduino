@@ -24,3 +24,8 @@ For the implementation demo [Click Here](https://github.com/Raihan-009/ArduinoFu
 ### Led With LDR
 
 Here in this project I have tried to on a LED with the Help of photoresistor or Light Dependent Source (LDR).
+
+#### Circuit Diagram of This Project
+![ledWithLdrCircuit](https://user-images.githubusercontent.com/64744693/87868385-e1ef2b00-c9b6-11ea-8cca-d237b9b10ac0.JPG)
+
+And for necessary code [Click Here](https://github.com/Raihan-009/ArduinoFunduino/blob/master/ledWithLDR/ldrCode.ino)
